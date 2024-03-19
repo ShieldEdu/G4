@@ -1,4 +1,4 @@
 GH: Vowel Sound Check
-YW: GPT AI-> creating a test
+YW: GPT AI-> vocabulary (Quizlet) and Kahoot!
 Chris: 
 HJ: my own vocabulary note
