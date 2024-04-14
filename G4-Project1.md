@@ -146,6 +146,7 @@ There was a problem with synchronizing AI-generated scripts and AI-made videos; 
 
 Using Leonardo AI to create images can result in each child producing distinct images. This might lead to a lack of consistency and unity when collaborating to create a single news piece. Additionally, problems can arise when generating images based solely on text without understanding the context. For example, if asked to draw Korean food like "altang," it might produce an image like this.
 
+![사진이미지](https://github.com/ShieldEdu/G4/assets/162398654/ca159c53-1683-4123-a910-4712d88c0d67)
 
 
 
