@@ -38,6 +38,25 @@ What digital tool are you exploring, and what is its primary function? (📌 Men
 <br>
 <br>
 <br>
+
+"Our goal is to enhance our middle school students' comprehension, summarization, and presentation skills. By integrating technology, we aim to create an engaging learning experience that prepares them for the digital age."
+
+"We'll be utilizing three powerful tools: ChatGPT 4.0, Leonardo, and ElevenLabs, alongside carefully selected news articles. These tools will help us simplify complex texts, create related images, and convert texts into engaging audio presentations."
+
+<h3>📑Lesson Plan
+"Let's dive into our teaching procedure:
+<h5>Step 1: We start by introducing the lesson's objective and grouping our students, assigning one news article to each group.
+<h5>Step 2: Each group will then use ChatGPT 4.0 to simplify their article. They'll ensure the content is understandable to younger audiences while maintaining its core message. This step not only enhances reading comprehension but also encourages critical thinking.
+<h5>Step 3: Moving on, students will use the Leonardo AI application to create visuals related to their simplified articles. This encourages creativity and helps students understand the importance of visual aids in communication.
+<h5>Step 4: With ElevenLabs, each group transforms their simplified text into audio. This introduces students to text-to-speech technology, adding an auditory layer to their presentations.
+<h5>Step 5: Finally, students will combine their simplified articles, images, and audio into a cohesive multimedia presentation. This comprehensive activity not only solidifies their understanding of the topic but also polishes their public speaking and technical skills."
+
+"Each group will present their work, allowing for peer feedback and teacher evaluation. We assess based on the simplicity and accuracy of the content, creativity of the images, quality of the audio, and presentation skills."
+
+"This lesson plan not only teaches language and digital literacy but also fosters creativity, critical thinking, and technological proficiency. By integrating AI tools into the classroom, we prepare our students for a future where technology and communication go hand in hand."
+
+
+<br>
 <br>
 <br>
 
