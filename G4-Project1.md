@@ -5,7 +5,8 @@
 #
 |Keyword| Online link|
 |:--:|:--:|
-|Syllabus & course overview|[File link](https://github.com/MK316/Spring2024/blob/main/data/S24_Syllabus_CDL_TESOL.pdf)|
+|Syllabus & course overview![image](https://github.com/ShieldEdu/G4/assets/162398654/d922796b-a2c1-4a5f-9a02-ab5b9a72af08)
+|[File link](https://github.com/MK316/Spring2024/blob/main/data/S24_Syllabus_CDL_TESOL.pdf)|
 
 
                       
