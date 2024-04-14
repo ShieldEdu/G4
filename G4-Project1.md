@@ -7,9 +7,10 @@
     <h1>🐣:Group4 @ GSTESOL
   <p>   <br>
   <p>Gyeong-hoon Choi
+  <p>Yeonwoo Choi
   <p>Heejun Kim
   <p>Kyounghee Seo
-  <p>Yeonwoo Choi
+ 
    <br>
    <br>
    <br>
