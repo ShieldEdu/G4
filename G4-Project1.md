@@ -41,7 +41,24 @@ What digital tool are you exploring, and what is its primary function? (📌 Men
 ```
 ChatGPT
 ```
-내용추가
+ChatGPT is a language model developed by OpenAI, and its main functions are as follows:
+
+Natural Language Understanding: ChatGPT uses natural language processing and understanding technology to comprehend and respond to user questions or requests.
+
+Here are some ways to utilize ChatGPT for English learning or educational purposes:
+
+English Reading Comprehension: ChatGPT can assist users in summarizing or interpreting English articles or texts. The model can help users summarize specific articles or grasp the main content of a text.
+
+***For example, here's how to use ChatGPT for English learning:***
+
+***User: "ChatGPT, could you summarize one of the recently published articles?"***
+
+***ChatGPT: "Of course. Let me summarize the article 'NASA's New Space Exploration Mission' that was recently published."***
+
+***User: "Thank you!"***
+
+***ChatGPT: "NASA has announced a new space exploration mission. This mission focuses on exploring the surface of Mars and measuring the distance between Earth and Mars. It is expected to provide new insights into space exploration."***
+
 <br>
 
 ```
