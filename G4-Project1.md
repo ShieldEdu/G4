@@ -87,7 +87,17 @@ For English learning or educational purposes, Leonardo AI can be utilized in the
 ```
 ElevenLabs
 ```
-내용추가
+ElevenLabs is a software tool for English learning and education. Its key features include:
+
+Pronunciation Improvement: ElevenLabs helps enhance the user's pronunciation by providing features to practice and improve accurate pronunciation.
+
+Vocabulary Expansion: ElevenLabs assists in expanding the user's vocabulary by providing opportunities to learn and practice words and expressions related to various topics.
+
+For English learning or educational purposes, ElevenLabs can be utilized in the following ways:
+
+News Sentence Shadowing: Users can use ElevenLabs to listen to news sentences and shadow them. This helps improve English pronunciation and familiarity with news sentences.
+
+Vocabulary Learning: Users can use ElevenLabs to learn vocabulary related to various topics. By practicing and memorizing words and expressions related to their interests, users can expand their vocabulary.
 
 <br>
 
