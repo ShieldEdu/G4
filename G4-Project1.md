@@ -5,6 +5,7 @@
 
   <div align=center>
   <h1>:angel:Group4 @ GSTESOL
+  <br>
   <p>Gyeong-hoon Choi
   <p>Heejun Kim
   <p>Kyounghee Seo
@@ -15,6 +16,7 @@
   <br>
   <br>
   <br>
+  </div>
 
 |ChatGPT|Leonardo AI|ElevenLabs|
 |:--:|:--:|:--:|
