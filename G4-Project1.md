@@ -39,7 +39,7 @@ What digital tool are you exploring, and what is its primary function? (📌 Men
 <br>
 
 ```
-chatgpt
+ChatGPT
 ```
 내용추가
 <br>
@@ -64,7 +64,6 @@ ElevenLabs
 <br>
 
 <h3>📑Lesson Plan</h3>
-"Let's dive into our teaching procedure:
 
 - **Step 1: We start by introducing the lesson's objective and grouping our students, assigning one news article to each group.**
   
@@ -78,10 +77,7 @@ ElevenLabs
 
 <br>
 
-"Each group will present their work, allowing for peer feedback and teacher evaluation. We assess based on the simplicity and accuracy of the content, creativity of the images, quality of the audio, and presentation skills."
-
-"This lesson plan not only teaches language and digital literacy but also fosters creativity, critical thinking, and technological proficiency. By integrating AI tools into the classroom, we prepare our students for a future where technology and communication go hand in hand."
-
+Each group will present their work, allowing for peer feedback and teacher evaluation. We assess based on the simplicity and accuracy of the content, creativity of the images, quality of the audio, and presentation skills. This lesson plan not only teaches language and digital literacy but also fosters creativity, critical thinking, and technological proficiency. By integrating AI tools into the classroom, we prepare our students for a future where technology and communication go hand in hand.
 
 <br>
 <br>
