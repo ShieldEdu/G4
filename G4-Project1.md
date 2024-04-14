@@ -2,9 +2,11 @@
 
 
 
-- [] task1
-- [x] task2
-
+- [ ] task1
+- [x] task1
+- [ ] task1
+- [x] task1 
+-
 
 
 # 🌿 10 Guideline questions for digital tool investigation in English Education.
