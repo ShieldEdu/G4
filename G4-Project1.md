@@ -43,6 +43,8 @@ What digital tool are you exploring, and what is its primary function? (📌 Men
 
 "We'll be utilizing three powerful tools: ChatGPT 4.0, Leonardo, and ElevenLabs, alongside carefully selected news articles. These tools will help us simplify complex texts, create related images, and convert texts into engaging audio presentations."
 
+<br>
+
 <h3>📑Lesson Plan
 "Let's dive into our teaching procedure:
 <h5>Step 1: We start by introducing the lesson's objective and grouping our students, assigning one news article to each group.
