@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=title&section=header&reversal=false&fontColor=balck&fontSize=80&fontAlign=48&animation=fadeIn
+![image](https://github.com/ShieldEdu/G4/assets/162398654/7d600e34-1be8-48bc-a553-d894f80e44b5)
 
 
 
