@@ -128,6 +128,11 @@ News Sentence Shadowing: Users can use ElevenLabs to listen to news sentences an
 
 Vocabulary Learning: Users can use ElevenLabs to learn vocabulary related to various topics. By practicing and memorizing words and expressions related to their interests, users can expand their vocabulary.
 
+
+## Rationale
+
+#### Q1 
+
 #### Q2 How do you envision this tool evolving or impacting English teaching methods in the future? Speculate on the future implications of this tool, including a detailed vision of how it might develop or be integrated into innovative teaching strategies.
 
 In the future, we believe that due to the development of AI, learners will conduct individualized and personalized learning in an individualized way.
