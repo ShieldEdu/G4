@@ -64,7 +64,27 @@ English Reading Comprehension: ChatGPT can assist users in summarizing or interp
 ```
 Leonardo AI
 ```
-내용추가
+Leonardo AI is an artificial intelligence tool for image generation and editing. Its main features include:
+
+Image Generation: Leonardo AI can generate images based on text or user requests, allowing for creative and engaging visuals.
+
+For English learning or educational purposes, Leonardo AI can be utilized in the following ways:
+
+Creative Image Generation: English learners can use Leonardo AI to generate creative images and write accompanying English sentences, fostering language skills and creativity simultaneously.
+
+Visual Learning Tool: Leonardo AI can create visual learning materials, such as images paired with English words, to support language learning.
+
+Image Generation for Literary Works: Users can generate images related to literary works using Leonardo AI. They can depict scenes from specific literary pieces or create creative visuals related to literary themes.
+
+
+***For example, here's how to use Leonardo AI for English learning:***
+
+***User: "Leonardo AI, could you generate a picture of 'Panda at the Chengdu Research Base of Giant Panda Breeding'?"***
+
+***Leonardo AI: "Certainly. I will generate an image of 'Panda at the Chengdu Research Base of Giant Panda Breeding' for you."***
+
+![크기변환 판다](https://github.com/ShieldEdu/G4/assets/162398654/1c576e0e-30a0-4e23-9b23-cd722f86e855)
+
 <br>
 
 ```
