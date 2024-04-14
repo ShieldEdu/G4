@@ -101,3 +101,5 @@ Speculate on a specific scenario or lesson plan, including detailed instructions
 <br>
 
 <h2>Reference
+  
+<h5>&#9679;https://en.wikipedia.org/wiki/ChatGPT
