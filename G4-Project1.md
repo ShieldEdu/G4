@@ -63,11 +63,11 @@ ElevenLabs
 
 <h3>📑Lesson Plan
 "Let's dive into our teaching procedure:
-<h5>Step 1: We start by introducing the lesson's objective and grouping our students, assigning one news article to each group.
-<h5>Step 2: Each group will then use ChatGPT 4.0 to simplify their article. They'll ensure the content is understandable to younger audiences while maintaining its core message. This step not only enhances reading comprehension but also encourages critical thinking.
-<h5>Step 3: Moving on, students will use the Leonardo AI application to create visuals related to their simplified articles. This encourages creativity and helps students understand the importance of visual aids in communication.
-<h5>Step 4: With ElevenLabs, each group transforms their simplified text into audio. This introduces students to text-to-speech technology, adding an auditory layer to their presentations.
-<h5>Step 5: Finally, students will combine their simplified articles, images, and audio into a cohesive multimedia presentation. This comprehensive activity not only solidifies their understanding of the topic but also polishes their public speaking and technical skills."
+<h4>Step 1: We start by introducing the lesson's objective and grouping our students, assigning one news article to each group.
+<h4>Step 2: Each group will then use ChatGPT 4.0 to simplify their article. They'll ensure the content is understandable to younger audiences while maintaining its core message. This step not only enhances reading comprehension but also encourages critical thinking.
+<h4>Step 3: Moving on, students will use the Leonardo AI application to create visuals related to their simplified articles. This encourages creativity and helps students understand the importance of visual aids in communication.
+<h4>Step 4: With ElevenLabs, each group transforms their simplified text into audio. This introduces students to text-to-speech technology, adding an auditory layer to their presentations.
+<h4>Step 5: Finally, students will combine their simplified articles, images, and audio into a cohesive multimedia presentation. This comprehensive activity not only solidifies their understanding of the topic but also polishes their public speaking and technical skills."
 
 "Each group will present their work, allowing for peer feedback and teacher evaluation. We assess based on the simplicity and accuracy of the content, creativity of the images, quality of the audio, and presentation skills."
 
