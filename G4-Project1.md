@@ -3,11 +3,10 @@
 
 
 #
-|Keyword| Online link|
-|:--:|:--:|
-|Syllabus & course overview![image](https://github.com/ShieldEdu/G4/assets/162398654/d922796b-a2c1-4a5f-9a02-ab5b9a72af08)
-|[File link](https://github.com/MK316/Spring2024/blob/main/data/S24_Syllabus_CDL_TESOL.pdf)|
 
+|ChatGPT|Leonardo AI|ElevenLabs|
+|:--:|:--:|:--:|
+|![image.png](attachment:image.png)|![image-2.png](attachment:image-2.png)|![image-3.png](attachment:image-3.png)|
 
                       
 # :cherry_blossom: 10 Guideline questions for digital tool investigation in English Education.
