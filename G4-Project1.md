@@ -36,7 +36,23 @@
 What digital tool are you exploring, and what is its primary function? (📌 Mendatory to answer in your presentation) Provide a brief overview of the tool, mentioning its name, main features, and its purpose in English learning or teaching. Include a specific example of how it's used.
 
 <br>
+
+```
+chatgpt
+```
+
 <br>
+
+```
+Leonardo AI
+```
+
+<br>
+
+```
+ElevenLabs
+```
+
 <br>
 
 "Our goal is to enhance our middle school students' comprehension, summarization, and presentation skills. By integrating technology, we aim to create an engaging learning experience that prepares them for the digital age."
