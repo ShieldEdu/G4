@@ -130,6 +130,12 @@ Vocabulary Learning: Users can use ElevenLabs to learn vocabulary related to var
 
 #### Q2 How do you envision this tool evolving or impacting English teaching methods in the future? Speculate on the future implications of this tool, including a detailed vision of how it might develop or be integrated into innovative teaching strategies.
 
+In the future, we believe that due to the development of AI, learners will conduct individualized and personalized learning in an individualized way.
+
+In particular, in the field of English writing, since AI Chatbots have emerged that write with perfect grammar and perfect logic, there will be little meaning in grading the writing results. Therefore, when evaluating English writing, you should evaluate the English writing process, not the product.
+
+
+Since AI will become a tool that must coexist in all educational processes, I believe that rather than blindly excluding it from the educational field, we should change the evaluation method and conduct a lot of research on how AI can be utilized in the educational context. 
 
 #### Q3 Can this tool be used to facilitate collaboration among students or between students and teachers? How? Explore the tool’s collaborative features, providing detailed instructions or a step-by-step guide on how these can be used for group projects or discussions.
 
