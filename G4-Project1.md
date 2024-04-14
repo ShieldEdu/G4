@@ -3,11 +3,9 @@
 
 
 
--
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 
- https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter                        
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></a>                        
+
+                      
 # :cherry_blossom: 10 Guideline questions for digital tool investigation in English Education.
 
 The following questions are designed to guide students in creating presentations that are not only informative but also practical, providing concrete examples and detailed instructions to vividly illustrate the potential uses and benefits of digital tools in English education.
