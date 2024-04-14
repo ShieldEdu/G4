@@ -60,11 +60,6 @@ Each group will present their work, allowing for peer feedback and teacher evalu
 <br>
 <br>
 
-## Rationale
-
-
-#### Q1 What are the unique advantages of using this tool for English learning or teaching? Identify the benefits this tool offers, focusing on concrete examples that highlight these advantages in practice.
-
 ```
 ChatGPT
 ```
@@ -131,7 +126,7 @@ Vocabulary Learning: Users can use ElevenLabs to learn vocabulary related to var
 
 ## Rationale
 
-#### Q1 
+#### Q1 What are the unique advantages of using this tool for English learning or teaching? Identify the benefits this tool offers, focusing on concrete examples that highlight these advantages in practice.
 
 #### Q2 How do you envision this tool evolving or impacting English teaching methods in the future? Speculate on the future implications of this tool, including a detailed vision of how it might develop or be integrated into innovative teaching strategies.
 
