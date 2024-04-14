@@ -31,21 +31,17 @@
 |ChatGPT|Leonardo AI|ElevenLabs|
 |:--:|:--:|:--:|
 |![image](https://github.com/ShieldEdu/G4/assets/162398654/5c69852a-b528-466c-a0ca-983d8aba2f9d)|![image](https://github.com/ShieldEdu/G4/assets/162398654/2e4859fb-72c8-4ff8-9276-cdc67385f100)|![image](https://github.com/ShieldEdu/G4/assets/162398654/eec5f177-e77b-492e-ab68-7a2bcaa49cb3)|
-
 </div>
    <br>
-What digital tool are you exploring, and what is its primary function? (📌 Mendatory to answer in your presentation) Provide a brief overview of the tool, mentioning its name, main features, and its purpose in English learning or teaching. Include a specific example of how it's used.
-
-<br>
 
 ```
 ChatGPT
 ```
-ChatGPT is a language model developed by OpenAI, and its main functions are as follows:
+ChatGPT is a language model developed by OpenAI, and one of the main functions is:
 
 Natural Language Understanding: ChatGPT uses natural language processing and understanding technology to comprehend and respond to user questions or requests.
 
-Here are some ways to utilize ChatGPT for English learning or educational purposes:
+A ways to utilize ChatGPT for English learning or educational purposes:
 
 English Reading Comprehension: ChatGPT can assist users in summarizing or interpreting English articles or texts. The model can help users summarize specific articles or grasp the main content of a text.
 
@@ -64,18 +60,17 @@ English Reading Comprehension: ChatGPT can assist users in summarizing or interp
 ```
 Leonardo AI
 ```
-Leonardo AI is an artificial intelligence tool for image generation and editing. Its main features include:
+Leonardo AI is an artificial intelligence tool for image generation and editing. One of the main features is:
 
 Image Generation: Leonardo AI can generate images based on text or user requests, allowing for creative and engaging visuals.
 
 For English learning or educational purposes, Leonardo AI can be utilized in the following ways:
 
-Creative Image Generation: English learners can use Leonardo AI to generate creative images and write accompanying English sentences, fostering language skills and creativity simultaneously.
+1. Creative Image Generation: English learners can use Leonardo AI to generate creative images and write accompanying English sentences, fostering language skills and creativity simultaneously.
 
-Visual Learning Tool: Leonardo AI can create visual learning materials, such as images paired with English words, to support language learning.
+2. Visual Learning Tool: Leonardo AI can create visual learning materials, such as images paired with English words, to support language learning.
 
-Image Generation for Literary Works: Users can generate images related to literary works using Leonardo AI. They can depict scenes from specific literary pieces or create creative visuals related to literary themes.
-
+3. Image Generation for Literary Works: Users can generate images related to literary works using Leonardo AI. They can depict scenes from specific literary pieces or create creative visuals related to literary themes.
 
 ***For example, here's how to use Leonardo AI for English learning:***
 
