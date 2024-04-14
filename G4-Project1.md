@@ -68,11 +68,11 @@ Each group will present their work, allowing for peer feedback and teacher evalu
 ```
 ChatGPT
 ```
-ChatGPT is a language model developed by OpenAI, and one of the main functions is:
++ ChatGPT is a language model developed by OpenAI, and one of the main functions is:
 
 Natural Language Understanding: ChatGPT uses natural language processing and understanding technology to comprehend and respond to user questions or requests.
 
-A ways to utilize ChatGPT for English learning or educational purposes:
++ A ways to utilize ChatGPT for English learning or educational purposes:
 
 English Reading Comprehension: ChatGPT can assist users in summarizing or interpreting English articles or texts. The model can help users summarize specific articles or grasp the main content of a text.
 
@@ -91,11 +91,11 @@ English Reading Comprehension: ChatGPT can assist users in summarizing or interp
 ```
 Leonardo AI
 ```
-Leonardo AI is an artificial intelligence tool for image generation and editing. One of the main features is:
++ Leonardo AI is an artificial intelligence tool for image generation and editing. One of the main features is:
 
 Image Generation: Leonardo AI can generate images based on text or user requests, allowing for creative and engaging visuals.
 
-For English learning or educational purposes, Leonardo AI can be utilized in the following ways:
++ For English learning or educational purposes, Leonardo AI can be utilized in the following ways:
 
 1. Creative Image Generation: English learners can use Leonardo AI to generate creative images and write accompanying English sentences, fostering language skills and creativity simultaneously.
 
@@ -116,13 +116,13 @@ For English learning or educational purposes, Leonardo AI can be utilized in the
 ```
 ElevenLabs
 ```
-ElevenLabs is a software tool for English learning and education. Its key features include:
++ ElevenLabs is a software tool for English learning and education. Its key features include:
 
 Pronunciation Improvement: ElevenLabs helps enhance the user's pronunciation by providing features to practice and improve accurate pronunciation.
 
 Vocabulary Expansion: ElevenLabs assists in expanding the user's vocabulary by providing opportunities to learn and practice words and expressions related to various topics.
 
-For English learning or educational purposes, ElevenLabs can be utilized in the following ways:
++ For English learning or educational purposes, ElevenLabs can be utilized in the following ways:
 
 News Sentence Shadowing: Users can use ElevenLabs to listen to news sentences and shadow them. This helps improve English pronunciation and familiarity with news sentences.
 
