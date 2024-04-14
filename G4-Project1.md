@@ -107,3 +107,4 @@ Speculate on a specific scenario or lesson plan, including detailed instructions
 <h5>&#9679;https://en.wikipedia.org/wiki/ChatGPT
 <h5>&#9679;https://jobs.ashbyhq.com/leonardo.ai
 <h5>&#9679;https://en.wikipedia.org/wiki/File:Eleven_Labs.png
+<h5>&#9679;https://www.koreaherald.com/view.php?ud=20231116000581
