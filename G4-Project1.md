@@ -22,7 +22,7 @@
    <br>
    <br>
 
-### :rocket:**Three AI tools**
+### :rocket:Three AI tools:
    <br>
 <div align=center>
    
