@@ -1,11 +1,4 @@
-Hello?!
-
-YW: GPT AI-> vocabulary (Quizlet) and Kahoot!
-
-Chris: 
-
-HJ: my own vocabulary note
-
+https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=title&section=header&reversal=false&fontColor=balck&fontSize=80&fontAlign=48&animation=fadeIn
 
 
 
