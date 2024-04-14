@@ -32,7 +32,7 @@
 
 </div>
    <br>
-설명추가
+What digital tool are you exploring, and what is its primary function? (📌 Mendatory to answer in your presentation) Provide a brief overview of the tool, mentioning its name, main features, and its purpose in English learning or teaching. Include a specific example of how it's used.
 
 <br>
 <br>
@@ -54,8 +54,6 @@
 
 ### Q4
 
-1. What digital tool are you exploring, and what is its primary function? (📌 Mendatory to answer in your presentation)
-Provide a brief overview of the tool, mentioning its name, main features, and its purpose in English learning or teaching. Include a specific example of how it's used.
 
 2. How does this tool integrate with traditional English teaching methods?
 Discuss specific ways the tool can complement or enhance traditional teaching methods, using detailed examples or scenarios.
