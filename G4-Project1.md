@@ -144,6 +144,8 @@ Since AI will become a tool that must coexist in all educational processes, I be
 #### Q4 What are the potential challenges or limitations of using this tool in an English learning or teaching context? Analyze any drawbacks, suggesting practical solutions or workarounds with detailed explanations.
 There was a problem with synchronizing AI-generated scripts and AI-made videos; the content did not always align properly. Therefore, it is advisable for teachers to thoroughly create and edit the content before letting AI avatars present it. 
 
+Using Leonardo AI to create images can result in each child producing distinct images. This might lead to a lack of consistency and unity when collaborating to create a single news piece. Additionally, problems can arise when generating images based solely on text without understanding the context. For example, if asked to draw Korean food like "altang," it might produce an image like this.
+
 
 
 
