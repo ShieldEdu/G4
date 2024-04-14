@@ -2,7 +2,10 @@
 
 
 
-
+#
+|Keyword| Online link|
+|:--:|:--:|
+|Syllabus & course overview|[File link](https://github.com/MK316/Spring2024/blob/main/data/S24_Syllabus_CDL_TESOL.pdf)|
 
 
                       
