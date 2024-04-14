@@ -34,6 +34,8 @@
 </div>
    <br>
 
+Our goal is to enhance our middle school students' comprehension, summarization, and presentation skills. By integrating technology, we aim to create an engaging learning experience that prepares them for the digital age. We'll be utilizing three powerful tools: ChatGPT 4.0, Leonardo, and ElevenLabs, alongside carefully selected news articles. These tools will help us simplify complex texts, create related images, and convert texts into engaging audio presentations.
+
 ```
 ChatGPT
 ```
@@ -86,10 +88,6 @@ For English learning or educational purposes, Leonardo AI can be utilized in the
 ElevenLabs
 ```
 내용추가
-
-<br>
-
-Our goal is to enhance our middle school students' comprehension, summarization, and presentation skills. By integrating technology, we aim to create an engaging learning experience that prepares them for the digital age. We'll be utilizing three powerful tools: ChatGPT 4.0, Leonardo, and ElevenLabs, alongside carefully selected news articles. These tools will help us simplify complex texts, create related images, and convert texts into engaging audio presentations.
 
 <br>
 
