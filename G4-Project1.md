@@ -60,68 +60,51 @@ Each group will present their work, allowing for peer feedback and teacher evalu
 <br>
 <br>
 
+<h3>
+  
 ```
 ChatGPT
 ```
-+ ChatGPT is a language model developed by OpenAI, and one of the main functions is:
 
-Natural Language Understanding: ChatGPT uses natural language processing and understanding technology to comprehend and respond to user questions or requests.
+</h3>
 
-+ A ways to utilize ChatGPT for English learning or educational purposes:
++ **Function:** Advanced language model by OpenAI for text understanding and generation.
 
-English Reading Comprehension: ChatGPT can assist users in summarizing or interpreting English articles or texts. The model can help users summarize specific articles or grasp the main content of a text.
++ **Purpose in Lesson:** Simplifies complex news articles to enhance student comprehension and summarization skills.
 
-***For example, here's how to use ChatGPT for English learning:***
-
-***User: "ChatGPT, could you summarize one of the recently published articles?"***
-
-***ChatGPT: "Of course. Let me summarize the article 'NASA's New Space Exploration Mission' that was recently published."***
-
-***User: "Thank you!"***
-
-***ChatGPT: "NASA has announced a new space exploration mission. This mission focuses on exploring the surface of Mars and measuring the distance between Earth and Mars. It is expected to provide new insights into space exploration."***
++ **Example Use:** Simplifying the story of Fubao the panda. Converts complex narratives into simpler summaries suitable for presentations, e.g., "Fubao, a panda, tried to climb over the fences at her zoo to escape. She was caught and brought back by her caretaker, Grandpa Kang. Now, she stays inside while her enclosure is being fixed. She has two siblings, Huibao and Luibao."
 
 <br>
+<h3>
 
 ```
 Leonardo AI
 ```
-+ Leonardo AI is an artificial intelligence tool for image generation and editing. One of the main features is:
 
-Image Generation: Leonardo AI can generate images based on text or user requests, allowing for creative and engaging visuals.
+</h3>
 
-+ For English learning or educational purposes, Leonardo AI can be utilized in the following ways:
-
-1. Creative Image Generation: English learners can use Leonardo AI to generate creative images and write accompanying English sentences, fostering language skills and creativity simultaneously.
-
-2. Visual Learning Tool: Leonardo AI can create visual learning materials, such as images paired with English words, to support language learning.
-
-3. Image Generation for Literary Works: Users can generate images related to literary works using Leonardo AI. They can depict scenes from specific literary pieces or create creative visuals related to literary themes.
-
-***For example, here's how to use Leonardo AI for English learning:***
-
-***User: "Leonardo AI, could you generate a picture of 'Panda at the Chengdu Research Base of Giant Panda Breeding'?"***
-
-***Leonardo AI: "Certainly. I will generate an image of 'Panda at the Chengdu Research Base of Giant Panda Breeding' for you."***
++ **Function:** Digital tool for creating images.
+  
++ **Purpose in Lesson:** Enhances visual literacy by allowing students to create images that complement the text.
+  
++ **Example Use:** Students create visual representations of key events from the article about Fubao, such as her escape attempt and interaction with Grandpa Kang, to support visual storytelling and emotional connection.
 
 ![크기변환 판다](https://github.com/ShieldEdu/G4/assets/162398654/1c576e0e-30a0-4e23-9b23-cd722f86e855)
 
 <br>
+<h3>
 
 ```
 ElevenLabs
 ```
-+ ElevenLabs is a software tool for English learning and education. Its key features include:
 
-Pronunciation Improvement: ElevenLabs helps enhance the user's pronunciation by providing features to practice and improve accurate pronunciation.
+</h3>
 
-Vocabulary Expansion: ElevenLabs assists in expanding the user's vocabulary by providing opportunities to learn and practice words and expressions related to various topics.
++ **Function:** Text-to-speech technology.
 
-+ For English learning or educational purposes, ElevenLabs can be utilized in the following ways:
++ **Purpose in Lesson:** Converts simplified text into audio to support auditory learning and enhance presentation skills.
 
-News Sentence Shadowing: Users can use ElevenLabs to listen to news sentences and shadow them. This helps improve English pronunciation and familiarity with news sentences.
-
-Vocabulary Learning: Users can use ElevenLabs to learn vocabulary related to various topics. By practicing and memorizing words and expressions related to their interests, users can expand their vocabulary.
++ **Example Use:** After text simplification and image creation, students use ElevenLabs to produce audio narratives of the article. Choices of voice and tone (e.g., soothing for Grandpa Kang) enhance engagement and storytelling depth.
 
 
 ## Rationale
