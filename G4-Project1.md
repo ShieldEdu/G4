@@ -24,8 +24,6 @@
    <br>
    <br>
 
-<br>
-
 <h3>📑Lesson Plan</h3>
 
 - **Step 1: We start by introducing the lesson's objective and grouping our students, assigning one news article to each group.**
