@@ -22,7 +22,6 @@
 [![사본 - 크기변환 AI tools 1-32 screenshot](https://github.com/ShieldEdu/G4/assets/162398654/941c4fa6-3ccb-4357-a217-1c5806453ac3)](https://www.youtube.com/watch?v=pCj98OHM4vM)
 
    <br>
-   <br>
 
 <h3>📑Lesson Plan</h3>
 
