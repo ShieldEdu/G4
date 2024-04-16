@@ -106,11 +106,13 @@ Our goal is to enhance our middle school students' comprehension, summarization,
 
 #### Q1 What are the unique advantages of using this tool for English learning or teaching? Identify the benefits this tool offers, focusing on concrete examples that highlight these advantages in practice.
 
-ChatGPT: In an English class, teachers can use ChatGPT to provide personalized language practice for students. For example, students can interact with ChatGPT to practice conversations tailored to their proficiency level and learning goals. If a student struggles with grammar, they can ask ChatGPT for clarification and receive instant feedback on their writing. This tool helps students improve their speaking and writing skills in a supportive environment.
+Because authentic materials were not produced for educational purposes, they had the disadvantage of being difficult to use them directly in education.
 
-Leonardo AI: Teachers can integrate Leonardo AI into their English classes to enhance visual learning. For instance, they can use the tool to create visual aids like diagrams or infographics to explain complex grammar rules or vocabulary concepts. Additionally, students can collaborate on creating visual flashcards for vocabulary practice, making learning more engaging and memorable.
+However, it was interesting that with ChatGPT, the level of authentic material could be adjusted to understandable input and provided as adaptive learning material.
+Additionally, learners had the advantage of being able to have a personalized learning experience by reproducing materials of their choice using LeonardoAI and Elevenlabs.
+So, even lower level students can engage in practicing English.
 
-ElevenLabs Tools: In the English classroom, teachers can leverage ElevenLabs tools to foster collaborative learning experiences. For example, students can participate in group discussions or projects using virtual classrooms or discussion forums provided by the tools. Teachers can assign real-world tasks, such as role-playing or conducting interviews, to help students apply their language skills in practical scenarios and improve their communication abilities.
+Another advantage is that cooperative learning is possible through interaction between learners, enabling scaffolding among learners. 
 
 #### Q2 How do you envision this tool evolving or impacting English teaching methods in the future? Speculate on the future implications of this tool, including a detailed vision of how it might develop or be integrated into innovative teaching strategies.
 
