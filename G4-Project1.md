@@ -133,10 +133,14 @@ Using Leonardo AI to create images can result in each child producing distinct i
 
 ![사진이미지](https://github.com/ShieldEdu/G4/assets/162398654/ca159c53-1683-4123-a910-4712d88c0d67)
 
-
-
 <br>
 <br>
+
+<div align=right>
+  
+  Portions of the content were generated with assistance from ChatGPT.
+  
+</div>
 
 <h2>Reference
   
