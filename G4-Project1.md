@@ -113,7 +113,7 @@ The first unique advantage is that AI tools provide personalized and adaptive le
 In the future, AI will radically transform English teaching. Personalized learning will become the norm. 
 In particular, in the field of English writing, since AI Chatbots have emerged that write with perfect grammar and perfect logic, there will be little meaning in grading the writing results. Therefore, when evaluating English writing, we should evaluate the English writing process, not the product.
 Since AI will become a tool that must coexist in all educational processes, we believe that rather than blindly excluding it from the educational field, we should change the evaluation method and conduct a lot of research on how AI can be utilized in the educational context.
-By embracing AI, we can significantly enhance the educational experience, making English learning more effective, engaging, and tailored to individual needs."
+By embracing AI, we can significantly enhance the educational experience, making English learning more effective, engaging, and tailored to individual needs.
 
 #### Q3 Can this tool be used to facilitate collaboration among students or between students and teachers? How? Explore the tool’s collaborative features, providing detailed instructions or a step-by-step guide on how these can be used for group projects or discussions.
 
