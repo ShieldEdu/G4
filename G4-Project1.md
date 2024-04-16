@@ -24,8 +24,6 @@
    <br>
    <br>
 
-Our goal is to enhance our middle school students' comprehension, summarization, and presentation skills. By integrating technology, we aim to create an engaging learning experience that prepares them for the digital age. We'll be utilizing three powerful tools: ChatGPT 4.0, Leonardo, and ElevenLabs, alongside carefully selected news articles. These tools will help us simplify complex texts, create related images, and convert texts into engaging audio presentations.
-
 <br>
 
 <h3>📑Lesson Plan</h3>
@@ -102,6 +100,8 @@ ElevenLabs
 + **Purpose in Lesson:** Converts simplified text into audio to support auditory learning and enhance presentation skills.
 
 + **Example Use:** After text simplification and image creation, students use ElevenLabs to produce audio narratives of the article. Choices of voice and tone (e.g., soothing for Grandpa Kang) enhance engagement and storytelling depth.
+
+Our goal is to enhance our middle school students' comprehension, summarization, and presentation skills. By integrating technology, we aim to create an engaging learning experience that prepares them for the digital age. We'll be utilizing three powerful tools: ChatGPT 4.0, Leonardo, and ElevenLabs, alongside carefully selected news articles. These tools will help us simplify complex texts, create related images, and convert texts into engaging audio presentations.
 
 <br>
 
