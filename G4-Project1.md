@@ -106,22 +106,14 @@ Our goal is to enhance our middle school students' comprehension, summarization,
 
 #### Q1 What are the unique advantages of using this tool for English learning or teaching? Identify the benefits this tool offers, focusing on concrete examples that highlight these advantages in practice.
 
-Because authentic materials were not produced for educational purposes, they had the disadvantage of being difficult to use them directly in education.
-
-However, it was interesting that with ChatGPT, the level of authentic material could be adjusted to understandable input and provided as adaptive learning material.
-Additionally, learners had the advantage of being able to have a personalized learning experience by reproducing materials of their choice using LeonardoAI and Elevenlabs.
-So, even lower level students can engage in practicing English.
-
-Another advantage is that cooperative learning is possible through interaction between learners, enabling scaffolding among learners. 
+The first unique advantage is that AI tools provide personalized and adaptive learning experiences. Since authentic materials were not created for educational purposes, it was challenging to use them directly in teaching. However, ChatGPT offers personalized language practice. For instance, ChatGPT can customize articles to students' proficiency levels, offering immediate feedback and explanations. Moreover, students can personalize their learning by creating their own materials using tools like LeonardoAI and Elevenlabs. This means even beginners can engage in practicing English. Another advantage is that cooperative learning is facilitated through interaction among learners, enabling scaffolding among them.
 
 #### Q2 How do you envision this tool evolving or impacting English teaching methods in the future? Speculate on the future implications of this tool, including a detailed vision of how it might develop or be integrated into innovative teaching strategies.
 
-In the future, we believe that due to the development of AI, learners will conduct individualized and personalized learning in an individualized way.
-
-In particular, in the field of English writing, since AI Chatbots have emerged that write with perfect grammar and perfect logic, there will be little meaning in grading the writing results. Therefore, when evaluating English writing, you should evaluate the English writing process, not the product.
-
-
-Since AI will become a tool that must coexist in all educational processes, I believe that rather than blindly excluding it from the educational field, we should change the evaluation method and conduct a lot of research on how AI can be utilized in the educational context. 
+In the future, AI will radically transform English teaching. Personalized learning will become the norm. 
+In particular, in the field of English writing, since AI Chatbots have emerged that write with perfect grammar and perfect logic, there will be little meaning in grading the writing results. Therefore, when evaluating English writing, we should evaluate the English writing process, not the product.
+Since AI will become a tool that must coexist in all educational processes, we believe that rather than blindly excluding it from the educational field, we should change the evaluation method and conduct a lot of research on how AI can be utilized in the educational context.
+By embracing AI, we can significantly enhance the educational experience, making English learning more effective, engaging, and tailored to individual needs."
 
 #### Q3 Can this tool be used to facilitate collaboration among students or between students and teachers? How? Explore the tool’s collaborative features, providing detailed instructions or a step-by-step guide on how these can be used for group projects or discussions.
 
