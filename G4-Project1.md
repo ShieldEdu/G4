@@ -109,6 +109,12 @@ ElevenLabs
 
 #### Q1 What are the unique advantages of using this tool for English learning or teaching? Identify the benefits this tool offers, focusing on concrete examples that highlight these advantages in practice.
 
+ChatGPT: In an English class, teachers can use ChatGPT to provide personalized language practice for students. For example, students can interact with ChatGPT to practice conversations tailored to their proficiency level and learning goals. If a student struggles with grammar, they can ask ChatGPT for clarification and receive instant feedback on their writing. This tool helps students improve their speaking and writing skills in a supportive environment.
+
+Leonardo AI: Teachers can integrate Leonardo AI into their English classes to enhance visual learning. For instance, they can use the tool to create visual aids like diagrams or infographics to explain complex grammar rules or vocabulary concepts. Additionally, students can collaborate on creating visual flashcards for vocabulary practice, making learning more engaging and memorable.
+
+ElevenLabs Tools: In the English classroom, teachers can leverage ElevenLabs tools to foster collaborative learning experiences. For example, students can participate in group discussions or projects using virtual classrooms or discussion forums provided by the tools. Teachers can assign real-world tasks, such as role-playing or conducting interviews, to help students apply their language skills in practical scenarios and improve their communication abilities.
+
 #### Q2 How do you envision this tool evolving or impacting English teaching methods in the future? Speculate on the future implications of this tool, including a detailed vision of how it might develop or be integrated into innovative teaching strategies.
 
 In the future, we believe that due to the development of AI, learners will conduct individualized and personalized learning in an individualized way.
