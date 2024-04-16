@@ -48,7 +48,7 @@ Our goal is to enhance our middle school students' comprehension, summarization,
 
 - **Step 4: With ElevenLabs, each group transforms their simplified text into audio. This introduces students to text-to-speech technology, adding an auditory layer to their presentations.**
 
-- **Step 5: Finally, students will combine their simplified articles, images, and audio into a cohesive multimedia presentation. This comprehensive activity not only solidifies their understanding of the topic but also polishes their public speaking and technical skills."**
+- **Step 5: Finally, students will combine their simplified articles, images, and audio into a cohesive multimedia presentation. This comprehensive activity not only solidifies their understanding of the topic but also polishes their public speaking and technical skills.**
 
 <br>
 
